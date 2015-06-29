@@ -42,7 +42,7 @@ Atam Konkani Vikipedia "Test stage"-ir asa.<br/> Fuddlea panvddear, mhunnchem vi
 <p style="text-align:center; font-size:80%; line-height:1.3em; margin-bottom:0">
 (Please go through this!! especially new users!)</p>
 
-<div style="background-color:#ff6633;text-align: center;"> 
+<div style="background-color:#FFF8DC;text-align: center;"> 
 *देवनागरी लिपयेंत बरोवचें आसल्यार: type wp/gom/dn/बरप_नांव
 *Romi lipient nove lekh borounk: ttaip korat wp/gom/lekhachem_nanv  (To create a new article in Roman Script: type wp/gom/article_name)
 *To create a new article in ಕನ್ನಡ Script: type wp/gom/kd/ಆರ್ಟಿಕಲ್_ನೆಮ್
@@ -54,7 +54,7 @@ Atam Konkani Vikipedia "Test stage"-ir asa.<br/> Fuddlea panvddear, mhunnchem vi
 <inputbox>
  type=create
  width=90
- bgcolor=#ff6633
+ bgcolor=#FFF8DC
  preload=Template:Standard content for new page
  editintro=Template:Instructions
  default=wp/gom/
