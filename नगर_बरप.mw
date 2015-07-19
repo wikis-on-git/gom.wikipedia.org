@@ -1,6 +1,215 @@
-देवनागरि लिपिक कॊंकणिंतुं '''नगर बरप''' आप्पयताति। हांतुं भारतीय भास मात्र न्हय, बल्कि कॆलवु युरोपीय भास सुद्दंय बरंयताति।
-* भारतीय भास- [[संस्कृत]], [[पाळि]], [[हिंदि]], [[मराठि]], [[सिंधि]], [[कश्मीरि]], [[नॆपाळि]], [[तमांग भास]], [[गढवालि]], [[बोडो]], [[अंगिका]], मैथिलि]], [[संथालि]] आनि [[भोजपुरि]]
+
+==गुरुतू==
+
+देवनागरी लिपीक कोंकणीत'''नगर बरप''' आप्पयतात। हांतूं भारतीय भास मात्र न्हय, बल्कि कॆलवु युरोपीय भास सुद्दंय बरंयताति।
+* भारतीय भास- [[संस्कृत]], [[पाळि]], [[dn/कॊंकणि भास|कॊंकणि]] [[हिंदि]], [[मराठि]], [[सिंधि]], [[कश्मीरि]], [[नॆपाळि]], [[तमांग भास]], [[गढवालि]], [[बोडो]], [[अंगिका]], मैथिलि]], [[संथालि]] आनि [[भोजपुरि]]
 * परगांवचीं भास- [[रोमनि]], [[इंगनागरि]] ('''नगर बरप आधारित अंग्रेजि लिपि''')
 
 हॆं लिपि दावॆंधक्कुन उज्जॆक बरंयताति। हाज्जॆं विकास [[ब्राह्मि बरप]]ांथांवुनु ज़ाल्लॆं आनि हॆं एक [[ध्वनियात्मक लिपि]] (Phonetic Script) आस्स। अन्य लिपिंपशिनॆं नगर बरप बरंवचॆक सुलभ आस्स आनि प्रतियॆकळॆ उच्चार हांतुं '''आस्स-तश्शि''' बरंवचॆक ज़ात्ता।
+
+
+
+कॊंकणिलॆं आधिरारिक लिपि [[dn/नगर बरप|देवनागरि लिपि]] ('''नगर बरप''') आस्स। कॊंकणिंतुं सॊळा(१६) [[पाळ स्वर]](पाळ-root), ३६ [[व्यंजन]], ५ [[अर्ध-स्वर]], ३ [[अनुस्वर]] आनि १ [[विसर्ग]] आस्सति। [[अनुनासिकृत स्वर]] (नांकांथांवुनु उल्लंवचॆं) कॊंकणिलॆं विशेषता। 
+
+कॊंकणि ध्वनिपद्धतिलॆं वैशिष्ट्य, [[हिंदि]] आनि [[मराठि]] हांतुं  [[schwa]]लॆं प्रयोजन ज़ात्ता हाज्जॆ बदलाक, '''''ऎ'''''  हाज्जॆं प्रयोजनांतुं आस्स। [[अनुनासिकरण]] '''''अ''''' सोडुनु व्हरलॆलॆं सकड स्वरांक लागता।
+
+==रचना==
+
+नगर बरपाक '''वर्णावळ''' अथवा '''अक्षरावळ''' सुद्दंय आप्पयताति। स्वर आनि व्यंजनालॆ एकओट्टाक '''अक्षर''' म्हणताति। नगर बरपालॆं अक्षरांगॆलॆं तोग्गु म्हणकॆ वर्गिकरण ज़ात्ता-
+* १६ [[स्वर]] (vowels and diphthongs) 
+* ३६ [[व्यंजन]] (consonants)
+* १७ [[मात्रा]]   (vowel markers)
+* ०८ [[चिह्न]]  (markers)
+* १० [[आवश्यक ज़ॊडाक्षर]] (necessary joint letters)
+* १० [[अंक]]    (numbers)
+* १० [[विराम चिह्न]] (punctuation marks)
+* ०८ [[अन्य चिह्न]] (other markers)
+
+
+===स्वर आनि मात्रा===
+{|class="wikitable" style="text-align:center; height:400px; width:100%"
+|-
+!
+!विंगड रूप
+!रोमिकृत
+!प ओट्टु ज़ोडुनु
+!rowspan="8" style="width:20px"|
+!विंगड रूप
+!रोमिकृत
+!प ओट्टु ज़ोडुनु
+|-
+!''[[कंठ्य]]''<br>([[Guttural]])
+|bgcolor="#CCCCCC" style="font-size:24px"|अ
+|a
+|bgcolor="#CCCCCC" style="font-size:24px"|प
+|bgcolor="#CCCCCC" style="font-size:24px"|आ
+|ā
+|bgcolor="#CCCCCC" style="font-size:24px"|पा
+|-
+!''[[तालव्य]]''<br>([[Palatal]])
+|bgcolor="#CCCCCC" style="font-size:24px"|इ
+|i
+|bgcolor="#CCCCCC" style="font-size:24px"|पि
+<!--When you input [p][i], you should see [i][p] as the correct result.
+If not, that means your computer does not support Indic script. Please do not swap.-->
+|bgcolor="#CCCCCC" style="font-size:24px"|ई
+|ī
+|bgcolor="#CCCCCC" style="font-size:24px"|पी
+|-
+!''[[औष्ठ्य]]''<br>([[Labial consonant|Labial]])
+|bgcolor="#CCCCCC" style="font-size:24px"|उ
+|u
+|bgcolor="#CCCCCC" style="font-size:24px"|पु
+|bgcolor="#CCCCCC" style="font-size:24px"|ऊ
+|ū
+|bgcolor="#CCCCCC" style="font-size:24px"|पू
+|-
+!''[[मूर्धन्य]]''<br>([[Retroflex consonant|Retroflex]])
+|bgcolor="#CCCCCC" style="font-size:24px"|ऋ
+|ṛ
+|bgcolor="#CCCCCC" style="font-size:24px"|पृ
+|bgcolor="#CCCCCC" style="font-size:24px"|ॠ
+|ṝ
+|bgcolor="#CCCCCC" style="font-size:24px"|पॄ
+|-
+!''[[दंत्य]]''<br>([[Dental consonant|Dental]])
+|bgcolor="#CCCCCC" style="font-size:24px"|ऌ
+|ḷ
+|bgcolor="#CCCCCC" style="font-size:24px"|पॢ
+|bgcolor="#CCCCCC" style="font-size:24px"|ॡ
+|ḹ
+|bgcolor="#CCCCCC" style="font-size:24px"|पॣ
+|-
+!''[[कंठतालव्य]]''<br>(Palato-Guttural)
+|bgcolor="#CCCCCC" style="font-size:24px"|ऍ
+|ê
+|bgcolor="#CCCCCC" style="font-size:24px"|पॅ
+|-
+!''[[कंठतालव्य]]''<br>(Palato-Guttural)
+|bgcolor="#CCCCCC" style="font-size:24px"|ऎ
+|e
+|bgcolor="#CCCCCC" style="font-size:24px"|पॆ
+|bgcolor="#CCCCCC" style="font-size:24px"|ए
+| ē
+|bgcolor="#CCCCCC" style="font-size:24px"|पे
+|-
+!''[[कंठौष्ठ्य]]''<br>(Labio-Guttural)
+|bgcolor="#CCCCCC" style="font-size:24px"|ऒ
+|o
+|bgcolor="#CCCCCC" style="font-size:24px"|पॊ
+
+|bgcolor="#CCCCCC" style="font-size:24px"|ओ
+|ō
+|bgcolor="#CCCCCC" style="font-size:24px"|पो
+|-
+!''[[ज़ॊडस्वर]]''<br>(Diphthong)
+|bgcolor="#CCCCCC" style="font-size:24px"|ऐ
+|ai
+|bgcolor="#CCCCCC" style="font-size:24px"|पै
+|bgcolor="#CCCCCC" style="font-size:24px"|औ
+| au
+|bgcolor="#CCCCCC" style="font-size:24px"|पौ
+|-
+|}
+
+* '''ऐ''' हांतुं '''अ''' आनि '''इ''' हांगॆलॆं उच्चार आस्स आनि '''औ''' हांतुं '''अ''' आनि '''उ''' हांगॆलॆं। 
+* कॊंकणिंतुं मस्तपटि '''ऋ''' हाज्जॆं '''र''' ज़ात्ता। उदा. वृक्ष हॆ ऊत्रालॆं कॊंकणिंतुं रूक ज़ात्ता।
+* ॠ, ऌ आनि ॡ हांगॆलॆं प्रयोजन कॊंकणिंतुं ज़ायना।
+* [[अनुस्वार]] ं हॆं अरदॆं न्, म्, ङ्, ञ्, ण् खात्तिरि अन्यथा स्वरालॆं नासिकीकरण करूक ज़ात्ता। उदा. अङ्क-अंक, अञ्ज-अंज, अण्ड-अंड, अन्त-अंत, हाँव-हांव।
+* [[विसर्ग]] ः अघोष "ह्" (निःश्वास) खात्तिरि। हाज्जॆं [[तत्सम ऊत्र]]ांतुं मात्र प्रयोजन करताति। उदा. दुःख
+* [[अवग्रह]] ऽ हाज्जॆं अंग्रजि अनुवाद apostrophe ज़ात्ता। दोन ऊत्र ज़ॊडताना माक्षिवॆलॆं ऊत्र स्वरनॆं सूरु ज़ात्त असलॆरि तॆं स्वर काडुक ज़ात्ता उदा. ज़ात्त + असलॆरि = ज़ात्तऽसलॆरि, वत्ता + आस्स = वत्ताऽस्स। 
+
+कॆदॊळ खंचॆय स्वरालॆं प्रयोजन ज़ायना, ताव्वळि थंय '''अ''' आस्स म्हुणु लॆकचॆं। स्वर नसलॆरि हलान्त '''्''' हाज्जेनॆं दाक्कंवका, उदा. महान्।
+
+===व्यंजन===
+
+{|class="wikitable" style="text-align:center; height:400px; width:95%"
+|-
+!
+! colspan="8"| ''[[स्पर्ष]]''<br>([[Stop consonant|Stop]])
+! colspan="2"| ''[[अनुनासिका]]''<br>([[Nasal consonant|Nasal]])
+! colspan="2"| ''[[अंतस्थ]]''<br>([[Approximant]])
+! colspan="4"| ''[[ऊष्म/संघश्री]]''<br>([[Fricative consonant|Fricative]])
+|-
+! [[Voice (phonetics)|Voicing]] →
+| colspan="4"| ''[[अघोष]]''
+| colspan="8" bgcolor="beige"| ''[[घोष]]''
+| colspan="2"| ''[[अघोष]]''
+| colspan="2" bgcolor="beige"| ''[[घोष]]''
+|-
+! [[Aspiration (phonetics)|Aspiration]] →
+| colspan="2"| ''[[अल्पप्राण]]''
+| colspan="2" bgcolor="beige"| ''[[महाप्राण]]''
+| colspan="2"| ''[[अल्पप्राण]]''
+| colspan="2" bgcolor="beige"| ''[[महाप्राण]]''
+| colspan="4"| ''[[अल्पप्राण]]''
+| colspan="4" bgcolor="beige"| ''[[महाप्राण]]''
+|-
+!''कंठ्य''<br>([[Guttural]])
+| bgcolor="#CCCCCC" style="font-size:24px" |क|| ka  <br/>{{IPA|/k/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |ख|| kha <br/>{{IPA|/kʰ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |ग|| ga  <br/>{{IPA|/ɡ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |घ|| gha <br/>{{IPA|/ɡʱ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |ङ|| ṅa  <br/>{{IPA|ŋ/}}
+| colspan="4"|
+| bgcolor="#CCCCCC" style="font-size:24px" |ह|| ha   <br/>{{IPA|/ɦ/}}
+|-
+!''तालव्य''<br>([[Palatal]])
+| bgcolor="#CCCCCC" style="font-size:24px" |च|| ca  <br/>{{IPA|/c/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |छ|| cha  <br/>{{IPA|/cʰ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |ज|| ja <br/>{{IPA|/ɟ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |झ|| jha <br/>{{IPA|/ɟʱ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |ञ|| ña <br/>{{IPA|/ɲ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |य|| ya <br/>{{IPA|/j/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |श|| śa <br/>{{IPA|/ɕ, ʃ/}}
+| colspan="2" rowspan="4"|
+|-
+!''मूर्धन्य''<br>([[Retroflex consonant|Retroflex]])
+| bgcolor="#CCCCCC" style="font-size:24px" |ट|| ṭa <br/>{{IPA|/ʈ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |ठ|| ṭha <br/>{{IPA|/ʈʰ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |ड|| ḍa <br/>{{IPA|/ɖ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |ढ|| ḍha <br/>{{IPA|/ɖʱ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |ण||  ṇa <br/>{{IPA|/ɳ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |ळ|| ḷa <br/>{{IPA|/ɺ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |ष|| ṣa <br/>{{IPA|/ʂ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |र|| ra <br/>{{IPA|/r/}}
+|-
+!''दंत्य''<br>([[Dental consonant|Dental]])
+| bgcolor="#CCCCCC" style="font-size:24px" |त|| ta <br/>{{IPA|/t̪/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |थ|| tha <br/>{{IPA|/t̪ʰ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |द|| da <br/>{{IPA|/d̪/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |ध|| dha <br/>{{IPA|/d̪ʱ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |न|| na <br/>{{IPA|/n/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |ल|| la <br/>{{IPA|/l/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |स|| sa <br/>{{IPA|/s/}}
+|-
+!''औष्ठ्य''<br>([[Labial consonant|Labial]])
+| bgcolor="#CCCCCC" style="font-size:24px" |प|| pa  <br/>{{IPA|/p/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |फ|| pha <br/>{wp/gom/IPA|/pʰ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |ब|| ba  <br/>{{IPA|/b/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |भ|| bha <br/>{{IPA|/bʱ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |म|| ma  <br/>{{IPA|/m/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |व|| va  <br/>{{IPA|/ʋ/}}
+| colspan="2"|
+|}
+{|class="wikitable" style="text-align:center; height:50px; width:95%"
+|-
+!
+! colspan="6"| ''अन्य स्वर''<br> 
+| bgcolor="#CCCCCC" style="font-size:24px" |च़|| tsa   <br/>{{IPA|/ t͡ʃ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |ज़|| dza  <br/>{{IPA|/d͡ʒ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |झ़|| dzha  <br/>{{IPA|/d͡ʒʱ/}}
+| bgcolor="#CCCCCC" style="font-size:24px" |फ़|| fa   <br/>{{IPA|/f/}}
+|}
+
+===उदाहरणाक वाक्य===
+
+<big><big>कॊंकणि ऎकळॆं भारतीय भास आस्स। कॊंकणि च़डावत गॊंय, कर्नाटक, कॆरळ आनि महाराष्ट्रांतुं उल्लयताति।</big></big>
+
+
+
 [[Category:!Main category]]
+
+
+
+[[Category:devanagari]]
