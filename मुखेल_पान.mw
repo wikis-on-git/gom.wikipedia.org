@@ -1,5 +1,4 @@
 
-{{मुखेल पान}}
 
 <p style="text-align:center; font-size:120%; line-height:1.3em; font-weight:bold; margin-bottom:0">
 [[dn/विकिपीडिया|विकिपीडिया]]र समेस्तांक येवकार!
@@ -23,10 +22,10 @@ Konkani Wikipidia atam sompurnaien chalu asa!
 ==कोंकणी विकिपिडिया==
 कोंकणी भाशेक वयल्या पांवड्यार व्हरूंया,कोंकणी समृद्ध करुंया.
 <p style="text-align:center; font-size:120%; line-height:1.3em; font-weight:bold; margin-bottom:0">
-[[tasks|Tasks that the Wikipedia-Gom needs to focus on (your wishlist here)]] </p>
+[[tasks|Jeo vostuncher Konknni Wikipidiek lokx dorunk zai]] </p>
 
 <p style="text-align:center; font-size:80%; line-height:1.3em; margin-bottom:0">
-(Create your wishlist of work you'd like to see done -- specially what YOU can contribute to -- here.)</p>
+(Create your wishlist of work you'd like to see done - specially what YOU can contribute to - here.)</p>
 
 <p style="text-align:center; font-size:120%; line-height:1.3em; font-weight:bold; margin-bottom:0">
 [[contributors|Konknni Wikipidient yogdan diupi]] </p>
@@ -38,17 +37,18 @@ Konkani Wikipidia atam sompurnaien chalu asa!
 [[Special:NewPages|Novim panam!]] </p>
 
 <p style="text-align:center; font-size:80%; line-height:1.3em; margin-bottom:0">
-(Please go through this!! especially new users!)</p>
+(Please go through this! Especially new users!)</p>
+<br />
 
 <div style="background-color:#FFF8DC;text-align: center;"> 
-*नवें लेख बरोवचें आसल्यार, खाला लेखा़चें नांव टाय्प करात। तुमाी देवनागरी, रोमी वो कन्नड लिपी वापरूंक शकतात।
-*Romi lipient nove lekh borounk, khala ''type'' korat lekhachem nanv. Tujean devanagari, romi vo konnod lipi uzar korunk zata.
-*To create a new article in ಕನ್ನಡ Script: type kd/ಆರ್ಟಿಕಲ್_ನೆಮ್ below
+नवें लेख बरोवचें आसल्यार, खाला लेखा़चें नांव टाय्प करात। तुमाी देवनागरी, रोमी वो कन्नड लिपी वापरूंक शकतात।
+<br />Romi lipient nove lekh borounk, khala ''type'' korat lekhachem nanv. Tujean devanagari, romi vo konnod lipi uzar korunk zata.
+<br />To create a new article in ಕನ್ನಡ script: type kd/ಆರ್ಟಿಕಲ್_ನೆಮ್ below
 
 
-<center>{{NUMBEROFARTICLES}} all articles
-[[Special:AllPages|All pages]]<br />
-[https://gom.wikipedia.org/w/index.php?title=Special:PrefixIndex&prefix=&namespace=14 All categories]<br />
+<center>{{NUMBEROFARTICLES}} panam asat
+[[Special:AllPages|Sogllim panam]]<br />
+[https://gom.wikipedia.org/w/index.php?title=Special:PrefixIndex&prefix=&namespace=14 Soglleo vorg]<br />
 <inputbox>
  type=create
  width=90
@@ -56,6 +56,7 @@ Konkani Wikipidia atam sompurnaien chalu asa!
  preload=Template:Standard content for new page
  editintro=Template:Instructions
  default=
+ buttonlabel=Pan roch
 </inputbox>
 </div> 
 
@@ -221,7 +222,7 @@ Konkani Wikipidia atam sompurnaien chalu asa!
 |-
 |valign=top|[[Image:Flag of India.svg|50px|]] 
 |width="50%" align="left" style="font-size:100%"|'''[[कोंकणी]]'''<br />
-[[dn/कोंकणी भास|कोंकणी भास]] &middot; [[dn/कोंकणी लोक|कोंकणी लोक]] &middot; [[dn/दायज|कोंकणी दायज]] &middot; [[dn/देवनागरी लिपी|देवनागरी]] &middot; [[dn/कॊंकणी भास|कॊंकणी भास]] &middot; [[dn/नगर बरप|'''नगर बरप''' (देवनागरी लिपी)]]  
+[[dn/कोंकणी भास|कोंकणी भास]] &middot; [[dn/कोंकणी लोक|कोंकणी लोक]] &middot; [[dn/दायज|कोंकणी दायज]] &middot; [[dn/देवनागरी लिपी|देवनागरी]] &middot; [[dn/कॊंकणी भास|कॊंकणी भास]] &middot; [[dn/नगर बरप|नगर बरप (देवनागरी लिपी)]]  
 |rowspan="4" style="padding:6px;font-size:1px"|&nbsp;
 |valign=top| [[Image:Nuvola apps kcoloredit.png|50px|Devlesko janglipen, uchioshukaripen, lekhavipen, shiba]]
 |width="50%" align="left" style="मुखपृष्ठ;border-top:1px dashed #AAAAAA|'''[[कला आनी संस्क्रुति]]'''<br/> 
@@ -243,9 +244,9 @@ Konkani Wikipidia atam sompurnaien chalu asa!
 |- 
 |valign=top|[[Image:Religious symbols.png|50px|]]
 |width="50%" align="left" style="मुखपृष्ठ;border-top:1px dashed #AAAAAA |'''[[धर्म आनि अनुष्ठान]]'''<br/> 
-&middot; [[dn/चित्रापुर_मठ|चित्रापुर मठ]] &middot; [[dn/हिंदु धर्म|हिंदु धर्म]] &middot; [[dn/जेझू |जेझू ]]
+[[dn/चित्रापुर_मठ|चित्रापुर मठ]] &middot; [[dn/हिंदु धर्म|हिंदु धर्म]] &middot; [[dn/जेझू |जेझू ]]
 |valign=top| [[Image:xyz.png|50px|Ier Lekh|तेख्नोलोगिय थाइ जान्ग्लिमाता थोदिने]]
-|width="50%" align="left" style="मुखपृष्ठ;border-top:1px dashed #AAAAAA| '''[[Miscellaneous]]'''<br/> &middot;[[dn/मराठि|मराठि]] &middot; [[dn/हिन्दी|हिन्दी ]] &middot; [[dn/मान्डोवी नदी |मान्डोवी नदी]]  &middot; [[dn/शेणै गोंयबाब|शेणै गोंयबाब]] &middot; [[kd/ಕೊಂಕ್ಣಿ ಭಾಸ್|ಕೊಂಕ್ಣಿ ಭಾಸ]] &middot; [[dn/उल्हास बुयांउ|उल्हास बुयांउ]] &middot; [[dn/कदम्बा ट्रन्स्पोर्ट कोर्पोरेशन|कदम्बा ट्रन्स्पोर्ट कोर्पोरेशन]] &middot; [[dn/संस्कृत|संस्कृत]] &middot; 
+|width="50%" align="left" style="मुखपृष्ठ;border-top:1px dashed #AAAAAA| '''[[Miscellaneous]]'''<br/> [[dn/मराठि|मराठि]] &middot; [[dn/हिन्दी|हिन्दी ]] &middot; [[dn/मान्डोवी नदी |मान्डोवी नदी]]  &middot; [[dn/शेणै गोंयबाब|शेणै गोंयबाब]] &middot; [[kd/ಕೊಂಕ್ಣಿ ಭಾಸ್|ಕೊಂಕ್ಣಿ ಭಾಸ]] &middot; [[dn/उल्हास बुयांउ|उल्हास बुयांउ]] &middot; [[dn/कदम्बा ट्रन्स्पोर्ट कोर्पोरेशन|कदम्बा ट्रन्स्पोर्ट कोर्पोरेशन]] &middot; [[dn/संस्कृत|संस्कृत]] &middot; 
 |}
 </div><br />
 
@@ -284,7 +285,7 @@ Konkani Wikipidia atam sompurnaien chalu asa!
 [[Deu|Deu]] &middot; [[Jezu|Jezu]] &middot; [[Povitr Pustok|Povitr Pustok]] &middot; [[Kristanvponn]] &middot; [[Katolik firgoz]] &middot; [[Natal|Natal]] &middot; [[Korezm|Korezm]] &middot; [[Maria|Maria]]
 |valign=top| [[Image:xyz.png|50px|Ier Lekh|तेख्नोलोगिय थाइ जान्ग्लिमाता थोदिने]]
 |width="50%" align="left" style="मुखपृष्ठ;border-top:1px dashed #AAAAAA| '''[[Ier Lekh]]'''<br/> 
-&middot; [[Pintonchem Karosthan|Pintonchem Karosthan]] &middot; [[Mandovi Nodi|Mandovi Nodi]]  &middot; [[Kadamba Transport Corporation|Kadamba Transport Corporation]] &middot;
+[[Pintonchem Karosthan|Pintonchem Karosthan]] &middot; [[Mandovi Nodi|Mandovi Nodi]]  &middot; [[Kadamba Transport Corporation|Kadamba Transport Corporation]] &middot;
 |}
 
 </div>
