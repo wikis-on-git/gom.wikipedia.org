@@ -48,7 +48,7 @@ Konkani Wikipidia atam sompurnaien chalu asa!
 
 <center>{{NUMBEROFARTICLES}} पानां आसात
 [[Special:AllPages|सगळीं पानां]]<br />
-[https://gom.wikipedia.org/w/index.php?title=Special:PrefixIndex&prefix=&namespace=14 Soglleo vorg]<br />
+[https://gom.wikipedia.org/w/index.php?title=Special:PrefixIndex&prefix=&namespace=14 सगळे वर्ग]<br />
 <inputbox>
  type=create
  width=90
@@ -56,7 +56,7 @@ Konkani Wikipidia atam sompurnaien chalu asa!
  preload=Template:Standard content for new page
  editintro=Template:Instructions
  default=
- buttonlabel=Pan roch
+ buttonlabel=पान रचात
 </inputbox>
 </div> 
 
