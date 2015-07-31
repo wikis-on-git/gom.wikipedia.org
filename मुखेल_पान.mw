@@ -22,22 +22,26 @@ Konkani Wikipidia atam sompurnaien chalu asa!
 ==कोंकणी विकिपिडिया==
 कोंकणी भाशेक वयल्या पांवड्यार व्हरूंया,कोंकणी समृद्ध करुंया.
 <p style="text-align:center; font-size:120%; line-height:1.3em; font-weight:bold; margin-bottom:0">
-[[tasks|ज्या वस्तूंचेर कोंकणी विकिपिडियाक लक्ष दवरूंक जाय]] </p>
+[[tasks|ज्या वस्तूंचेर कोंकणी विकिपिडियाक लक्ष दवरूंक जाय]]<br>
+[[tasks|Jeo vostuncher Konknni Wikipidiek lokx dorunk zai]]</p>
 
 <p style="text-align:center; font-size:80%; line-height:1.3em; margin-bottom:0">
 (Create your wishlist of work you'd like to see done - specially what YOU can contribute to - here.)</p>
 
 <p style="text-align:center; font-size:120%; line-height:1.3em; font-weight:bold; margin-bottom:0">
-[[contributors|कोंकणी विकिपिडियांत योगदान दिवपी]] </p>
+[[contributors|कोंकणी विकिपिडियांत योगदान दिवपी]]<br>
+[[contributors|Konknni Wikipidient yogdan diupi]]</p>
 
 <p style="text-align:center; font-size:80%; line-height:1.3em; margin-bottom:0">
-(जर तुमी कोंकणी विकिपिडियांत वावर करता जाल्यार उपकार करून ह्या वळेरींत तुमचीं नांवां घालात. सहभागेलीपणान वावर करपाक आदार जातलो.)</p>
+(जर तुमी कोंकणी विकिपिडियांत वावर करता जाल्यार उपकार करून ह्या वळेरींत तुमचीं नांवां घालात. सहभागेलीपणान वावर करपाक आदार जातलो.)<br>
+(Zor tum Konknni Wikipediãt vaur korta zalear upkar korun hea vollerint tuzo nãv ghal. Sohbhageliponnan vaur korpak adar zatolo.)</p>
 
 <p style="text-align:center; font-size:120%; line-height:1.3em; font-weight:bold; margin-bottom:0">
-[[Special:NewPages|नवीं पानां!]] </p>
+[[Special:NewPages|नवीं पानां! / Novim panam!]]</p>
 
 <p style="text-align:center; font-size:80%; line-height:1.3em; margin-bottom:0">
-(उपकार करून हाचेर एक नदर मारात! खास करून नवे वापरपी!)</p>
+(उपकार करून हाचेर एक नदर मारात! खास करून नवे वापरपी!)<br>
+(Upkar korun hacher ek nodor marat! Khas korun nove vapurpi!)</p>
 <br />
 
 <div style="background-color:#FFF8DC;text-align: center;"> 
@@ -46,9 +50,9 @@ Konkani Wikipidia atam sompurnaien chalu asa!
 <br />To create a new article in ಕನ್ನಡ script: type kd/ಆರ್ಟಿಕಲ್_ನೆಮ್ below
 
 
-<center>{{NUMBEROFARTICLES}} पानां आसात
-[[Special:AllPages|सगळीं पानां]]<br />
-[https://gom.wikipedia.org/w/index.php?title=Special:PrefixIndex&prefix=&namespace=14 सगळे वर्ग]<br />
+<center>{{NUMBEROFARTICLES}} पानां आसात / {{NUMBEROFARTICLES}} panam asat
+[[Special:AllPages|सगळीं पानां / Sogllim panam]]<br />
+[https://gom.wikipedia.org/w/index.php?title=Special:PrefixIndex&prefix=&namespace=14 सगळे वर्ग Soglle vorg]<br />
 <inputbox>
  type=create
  width=90
@@ -56,7 +60,7 @@ Konkani Wikipidia atam sompurnaien chalu asa!
  preload=Template:Standard content for new page
  editintro=Template:Instructions
  default=
- buttonlabel=पान रचात
+ buttonlabel=पान रचात / Pan roch
 </inputbox>
 </div> 
 
@@ -226,7 +230,7 @@ Konkani Wikipidia atam sompurnaien chalu asa!
 |rowspan="4" style="padding:6px;font-size:1px"|&nbsp;
 |valign=top| [[Image:Nuvola apps kcoloredit.png|50px|Devlesko janglipen, uchioshukaripen, lekhavipen, shiba]]
 |width="50%" align="left" style="मुखपृष्ठ;border-top:1px dashed #AAAAAA|'''[[कला आनी संस्कृती]]'''<br/> 
-[[संगीत|संगीत]] &middot; [[साहित्य|साहित्य]] &middot; [[काव्य|काव्य]] &middot; [[लोक संगीत|लोक संगीत]] &middot;  [[फिल्मां|फिल्मां]] &middot; [[लोक  नृत्य|लोक  नृत्य]] &middot; [[तियात्र /नाटक]]
+[[संगीत|संगीत]] &middot; [[साहित्य|साहित्य]] &middot; [[काव्य|काव्य]] &middot; [[लोक संगीत|लोक संगीत]] &middot;  [[फिल्मां|फिल्मां]] &middot; [[लोक  नृत्य|लोक  नृत्य]] &middot; [[तियात्र]] &middot; [[नाटक]]
 |-
 |valign=top|[[Image:Nuvola apps kalzium.svg|50px|रानवटी /जंगलीपण ऊच्या थाई सुन्दालुत्ने]]
 |width="50%" align="left" style="मुखपृष्ठ;border-top:1px dashed #AAAAAA |'''[[विज्ञान]]'''<br/>
