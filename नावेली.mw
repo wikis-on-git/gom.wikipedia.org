@@ -15,11 +15,11 @@
 | latd                   = 15.24
 | latm                   = 
 | lats                   = 
-| latNS                  = S
+| latNS                  = 
 | longd                  = 73.95
 | longm                  = 
 | longs                  = 
-| longEW                 = E
+| longEW                 = 
 | coordinates_display    = 
 | subdivision_type       = देश
 | subdivision_name       = भारत
@@ -33,7 +33,7 @@
 | area_footnotes         = 
 | area_rank              = 
 | area_total_km2         =
-| population_total       = 6320
+| population_total       = 
 | population_as_of       = 2001
 | population_rank        = 
 | population_density_km2 = auto
