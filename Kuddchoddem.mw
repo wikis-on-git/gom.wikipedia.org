@@ -7,53 +7,73 @@ Kuddchoddem {{Coord|15|15|37|N|74|06|30|E|type:city}} hangasor asa ani tachi so
 ==Hovaman==
 Kuddchoddem haka ek [[uxnno pavsalleacho hovaman]] asa. Kuddchoddencho hovaman gimalleant gorom ani hinvalleant ekech torecho zavn asa. Gimalleant ([[Mars]] tem [[Mai]]) tapman 32 °C poriant veta ani hinvalleant ([[Dezembr]] tem [[Fevrer]]) chodd korun 25.8 °C ani 20 °C bhitor asta.  [[Pavsalleacho kall]] [[Junh]] tem [[Setembr]] asa zantunt [[musollamdharecho pavs]] ani nettachea vareacho aspav asta, Sorasori pavs 2699 mm (106.24 inch) asta.
 
-{{Weather box
-|location= Curchorem
-|metric first= yes
-|single line= yes
-
-|Jan high C= 31.6
-|Feb high C= 31.8
-|Mar high C= 32.8
-|Apr high C= 33.9
-|May high C= 34.0
-|Jun high C= 31.1
-|Jul high C= 29.5
-|Aug high C= 29.2
-|Sep high C= 29.8
-|Oct high C= 31.5
-|Nov high C= 32.1
-|Dec high C= 31.9
-
-|Jan low C= 20.1
-|Feb low C= 20.9
-|Mar low C= 23.3
-|Apr low C= 25.7
-|May low C= 26.7
-|Jun low C= 25.1
-|Jul low C= 24.4
-|Aug low C= 24.3
-|Sep low C= 24.0
-|Oct low C= 23.9
-|Nov low C= 22.2
-|Dec low C= 20.9
-
-|Jan precipitation mm= 0
-|Feb precipitation mm= 0
-|Mar precipitation mm= 1
-|Apr precipitation mm= 14
-|May precipitation mm= 104
-|Jun precipitation mm= 709
-|Jul precipitation mm= 929
-|Aug precipitation mm= 507
-|Sep precipitation mm= 250
-|Oct precipitation mm= 137
-|Nov precipitation mm= 37
-|Dec precipitation mm= 11
-
-|source= []
-|date= 
-}}
+{| class="wikitable"
+|-
+!Month
+!High deg C
+!Low deg C
+!Precipitation
+|-
+|Jan
+|31.6
+|20.1
+|0mm
+|-
+|Feb
+|31.8
+|20.9
+|0mm
+|-
+|Mar
+|32.8
+|23.3
+|1mm
+|-
+|Apr
+|33.9
+|25.7
+|14mm
+|-
+|May
+|34.0
+|26.7
+|104mm
+|-
+|Jun
+|31.1
+|25.1
+|709mm
+|-
+|Jul
+|29.5
+|24.4
+|929mm
+|-
+|Aug
+|29.2
+|24.3
+|507mm
+|-
+|Sep
+|29.8
+|24.0
+|250mm
+|-
+|Oct 
+|31.5
+|23.9
+|137mm
+|-
+|Nov
+|32.1
+|22.2
+|37mm
+|-
+|Dec
+|31.9
+|20.9
+|11mm
+|-
 
 ==Demographics==
 {{IndiaCensusPop|state=
