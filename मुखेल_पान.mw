@@ -1,6 +1,9 @@
-{| id="mp-topbanner" style="width:100%; background:#f9f9f9; margin:1.2em 0 6px 0; border:1px solid #ddd;"
+{| id="mp-topbanner" style="width:100%; background: linear-gradient(to bottom, #fff, #e8f2f8); border-bottom: solid 1px #a8d7fc; margin:1.2em 0 6px 0;"
+| class="bgwikilogo" style="background-repeat:no-repeat; background-position:-110px -15px; background-size: 300px 300px; padding: 1.5rem 1rem 1rem;" |
+{| style="width:100%; background:transparent;
+| style="width:16%; color:#000;" |
 | style="width:28%; color:#000;" |
-{| style="width:260px; border:none; background:none;"
+{| style="width:260px; border:none; background:transparent;"
 | style="width:286px; text-align:center; white-space:nowrap; color:#000;" |
 <div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">[[विकिपीडिया|विकिपीडियांत]] समेस्तांक येवकार!</div>
 <div style="top:+0.2em; font-size:95%;">हो मुक्त विश्वकोश कोणाच्यानूय संपादीत करूंक जाता.</div>
@@ -13,11 +16,12 @@
 <div style="top:+0.2em; font-size:95%;">Ho mukt vishwakosh konnachean-ui sompadit korunk zata.</div>
 <div id="articlecount" style="font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] lekh asat</div>
 |}
-| style="width:14%; font-size:95%;" |
-* [[Help:Typing|टायपिंग]]
-* [[s:Category:Goan Konkani|कोंकणी विश्वकोश]]
-* [[Help:Romi Konknni|Romi lipint koxem uzar korunk zata]]
-* [http://konkanverter.com/konkanverter-ver-2-0/ लिप्यंतरण / lipyantaran / ಲಿಪ್ಯಂತರಣ]
+|- 
+| style="width:16%; color:#000;" |
+| valign="top" colspan="2" style="padding:0px 17px 0px 17px;" | <div style="float:left; margin-left:0px; width:100%; font-size:95%; text-align:center; font-weight:bold; border-top:2px solid #C7D0F8;">
+'''[[Help:Typing|टायपिंग]] {{·}} [[s:Category:Goan Konkani|कोंकणी विश्वकोश]] {{·}} [[Help:Romi Konknni|Romi lipint koxem uzar korunk zata]] {{·}} [http://konkanverter.com/konkanverter-ver-2-0/ लिप्यंतरण / lipyantaran / ಲಿಪ್ಯಂತರಣ] 
+</div>
+|}
 |}
 
 <p style="text-align:center; font-size:120%; line-height:1.3em; font-weight:bold; margin-bottom:0">
