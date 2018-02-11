@@ -60,36 +60,7 @@
 ! style="background:#FFDEAD; border:1px solid #EECFA1; border-left:0px; padding:0px; vertical-align:middle;" | <div style="float:right;">[[File:Wikibar.png|90px|alt=|link=]]</div>
 |-
 | colspan=2 style="padding:15px 5px" | <div style="text-align:left;">
-{|width="100%" border="0" cellspacing="0" cellpadding="5"
-|-
-|valign=top|[[Image:Flag of India.svg|50px|]] 
-|width="50%" align="left" style="font-size:100%"|'''कोंकणी / Konknni'''<br />
-[[कोंकणी भास]] &middot; [[Konknni Bhas]] &middot; [[ಕೊಂಕ್ಣಿ ಭಾಸ್]] &middot; [[कोंकणी लोक]] &middot; [[Konknni lok]] &middot; [[दायज|कोंकणी दायज]] &middot; [[देवनागरी लिपी|देवनागरी]] &middot; [[Romi Konknni]] &middot; [[Konkani sayings|Konknni mhunn'neô]]
-|rowspan="4" style="padding:6px;font-size:1px"|&nbsp;
-|valign=top| [[Image:Nuvola apps kcoloredit.png|50px|Devlesko janglipen, uchioshukaripen, lekhavipen, shiba]]
-|width="50%" align="left" style="मुखपृष्ठ;border-top:1px dashed #AAAAAA|'''[[कला आनी संस्कृती]] / [[Kola ani Sonskruti]]'''<br/> 
-[[संगीत|संगीत]] &middot; [[तियात्र]] &middot; [[Nattok]] &middot;  [[Goenchem Prochar Madheom]] &middot; 
-|-
-|valign=top|[[Image:Nuvola apps kalzium.svg|50px|रानवटी /जंगलीपण ऊच्या थाई सुन्दालुत्ने]]
-|width="50%" align="left" style="मुखपृष्ठ;border-top:1px dashed #AAAAAA |'''[[विज्ञान]] / [[Vidian]]'''<br/>
-[[फिसिक्स|फिसिक्स]] &middot; [[केमिस्ट्री|केमिस्ट्री]] &middot; [[बायोलोजी|बायोलोजी]] &middot; [[Bhoutikixastr]] &middot; [[Rosaeonnxastr]] &middot; [[Jivxastr]]
-|valign=top|[[Image:Nuvola_filesystems_www.png|50px|]]
-|width="50%" align="left" style="मुखपृष्ठ;border-top:1px dashed #AAAAAA|'''[[भुगोल]] / [[Bhugol]]'''<br/>
-[[Bharot]] &middot; [[Goem|Goem]] &middot; [[महाराष्ट्र|महाराष्ट्र]] &middot; [[मंगळूर|मंगळूर]] &middot; [[अरब सागर|अरब सागर]] &middot; [[Kornattok|Kornattok]] &middot; [[Kerall]] &middot; [[धर्तरी]] &middot; [[आशिया खंड]] &middot; [[हिमालयाचो दोंगरी वाठार]]  &middot; [[Mandovi Nodi]]
-|- 
-|valign=top| [[Image:Nuvola apps mycomputer.png|50px|तेख्नोलोगिय थाइ जान्ग्लिमाता थोदिने]]
-|width="50%" align="left" style="मुखपृष्ठ;border-top:1px dashed #AAAAAA| '''[[अभियानत्रिकी]] / [[Abhiyantriki]]'''<br/>
-[[इलॅक्ट्रोनिक्स]] &middot; [[कंप्यूटर]] &middot; [[बायोटॅकनोलोजी]] &middot; [[Electronics]] &middot; [[Computers]] &middot; [[Biotechnology]]
-|valign=top| [[Image:Nuvola apps kuser.png|50px|Devlesko janglipen, uchioshukaripen, lekhavipen, shiba]]
-|width="50%" align="left" style="मुखपृष्ठ;border-top:1px dashed #AAAAAA |'''Biographies'''<br/> 
-[[महात्मा गांधी]] &middot; [[शणै गोंयबाब]] &middot; [[उल्हास बुयांउ]] &middot; [[ಮದರ್ ತೆರೆಜಾ]]
-|- 
-|valign=top|[[Image:Religious symbols.png|50px|]]
-|width="50%" align="left" style="मुखपृष्ठ;border-top:1px dashed #AAAAAA |'''[[धर्म]] आनी अनुष्ठान / [[Dhorm]]'''<br/> 
-[[हिंदू धर्म]] &middot; [[जेजू क्रिस्त]] &middot; [[Deu|Deu]] &middot; [[Povitr Pustok|Povitr Pustok]] &middot; [[Kristanvponn]] &middot; [[Katolik firgoz]] &middot; [[Natal]] &middot; [[Maria]] &middot; [[Ramayana]]
-|valign=top| [[Image:xyz.png|50px|Ier Lekh|तेख्नोलोगिय थाइ जान्ग्लिमाता थोदिने]]
-|width="50%" align="left" style="मुखपृष्ठ;border-top:1px dashed #AAAAAA| '''Ier Lekh'''<br/> [[हिन्दी]] &middot; [[भास आनी भासविज्ञान]] &middot; [[संस्कृत]] &middot; [[Pintonchem Karosthan]] &middot; [[Kadamba Transport Corporation]] &middot; [[अर्थशास्त्र]]
-|}
+{{Main page directory}}
 </div><br />
 {| class="mp-right" style="background:#faf5ff;"
 ! style="background:#FFDEAD; border:1px solid #EECFA1; border-right:0px; padding:0px; vertical-align:middle; font-weight:normal; width:100%;" | <h3 class="mp"> [[Image:Nuvola apps bookcase.png|25px|alt=|link=]]विकिमीडिया प्रकल्प </h3>
@@ -97,7 +68,6 @@
 |-
 | colspan=2 style="padding:15px 5px" | <div style="text-align:left;">
 {{Wikipedia's sister projects}}
-
 <br />
 {| class="mp-right" style="background:#faf5ff;"
 ! style="background:#FFDEAD; border:1px solid #EECFA1; border-right:0px; padding:0px; vertical-align:middle; font-weight:normal; width:100%;" | <h3 class="mp"> [[Image:Nuvola apps bookcase.png|25px|alt=|link=]]Wikipedia ier bhasani </h3>
