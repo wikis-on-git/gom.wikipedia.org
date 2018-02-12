@@ -41,6 +41,20 @@
 <div style="float:left; margin-left:0px; width:100%; font-size:95%; text-align:center; font-weight:bold;">[[tasks|काऱ्या-सुची / Karya-suchi / ಕಾರ್ಯಾ ಸುಚಿ]] {{·}} [[contributors|योगदान दिवपी / Yogdan diupi / ಯೋಗದಾನ ದಿಯಾ]] {{·}} [https://gom.wikipedia.org/w/index.php?title=Special:PrefixIndex&prefix=&namespace=14 सगळे वर्ग / Soglle vorg]</div><br /><br />
 
 {| class="mp-right" style="background:#faf5ff;"
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-right:0px; padding:0px; vertical-align:middle; font-weight:normal; width:100%;" | <h3 class="mp"> [[Image:Nuvola filesystems services.svg|25px|alt=|link=]]Featured article</h3>
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-left:0px; padding:0px; vertical-align:middle;" | <div style="float:right;">[[File:Wikibar.png|90px|alt=|link=]]</div>
+|-
+| colspan=2 style="padding:15px 5px" | <div style="text-align:left;">
+{{Featured article}}
+</div><br />
+{| class="mp-right" style="background:#faf5ff;"
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-right:0px; padding:0px; vertical-align:middle; font-weight:normal; width:100%;" | <h3 class="mp"> [[Image:Nuvola 2.0+ Drawing.svg|25px|alt=|link=]]Featured picture </h3>
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-left:0px; padding:0px; vertical-align:middle;" | <div style="float:right;">[[File:Wikibar.png|90px|alt=|link=]]</div>
+|-
+| colspan=2 style="padding:15px 5px" | <div style="text-align:left;">
+{{Featured picture}}
+</div><br />
+{| class="mp-right" style="background:#faf5ff;"
 ! style="background:#FFDEAD; border:1px solid #EECFA1; border-right:0px; padding:0px; vertical-align:middle; font-weight:normal; width:100%;" | <h3 class="mp"> [[Image:Nuvola apps bookcase.png|25px|alt=|link=]] विश्वकोश / Vishwakosh</h3>
 ! style="background:#FFDEAD; border:1px solid #EECFA1; border-left:0px; padding:0px; vertical-align:middle;" | <div style="float:right;">[[File:Wikibar.png|90px|alt=|link=]]</div>
 |-
@@ -61,3 +75,4 @@
 | colspan=2 style="padding:15px 5px" | <div style="text-align:left;">
 {{Wikipedia ier bhasani}}
 </div>
+__NOTOC__
