@@ -24,12 +24,12 @@
 |}
 |}
 
-<div style="background-color:#FFF8DC;text-align: center;"> 
+<div style="background-color:#FFFFFF;text-align: center;"> 
 [[Wikipedia:Novem pan roch|नवे लेख बरोय / Nove lekh boroi]]
 <inputbox>
  type=create
  width=40
- bgcolor=#FFF8DC
+ bgcolor=#FFFFFF
  preload=Template:Standard content for new page
  editintro=Template:Instructions
  default=
